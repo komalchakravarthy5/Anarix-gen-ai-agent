@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-ollama
+ollama
+sqlite3
+pydantic
+plotly
+pandas
